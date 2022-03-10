@@ -1,0 +1,16 @@
+*{margin: 0;padding: 0;}
+
+.box-1{
+    border: 20px double darkcyan;
+    padding-top: 20px;
+    margin-right: 20px;
+    width:100%;
+    height: 700px;
+    background-color: indianred;
+    border: 5px solid maroon;
+    background-image: url(/img/images.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image:linear-gradient(rgb(133, 9, 9),rgb(7, 7, 153),rgb(27, 114, 27));
+    background-image: -webkit-radial-gradient(rgb(175, 6, 6),rgb(5, 5, 160),rgb(9, 117, 9),rgb(80, 80, 7),rgb(87, 7, 20),rgb(39, 100, 100));
+}

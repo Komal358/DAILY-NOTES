@@ -1,0 +1,29 @@
+.main{
+    height: 1024px;
+    width: 750px;
+    background-color: aqua;
+    margin: auto;
+}
+
+.header{
+    height: 150px;
+    width: 750px;
+    background-color: deeppink;
+    float: left;
+
+}
+
+.content{
+    height: 850px;
+    width: 750px;
+    background-color: darkseagreen;
+    float:left
+}
+
+.footer{
+    height: 50px;
+    width: 750px;
+    background-color: firebrick;
+    float: left;
+}
+
